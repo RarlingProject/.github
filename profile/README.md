@@ -11,7 +11,7 @@ As Roblox transitioned to a better Anti-Cheat implementation due to popular requ
 - [**Hyperion**](https://roblox.fandom.com/wiki/Hyperion) *also referred as Byfron* is the Anti-Cheat that would make it's Debut to Roblox's Client.     
 - [Initial attempts](https://devforum.roblox.com/t/the-new-roblox-64-bit-byfron-client-forbids-wine-users-from-using-it-most-likely-unintentional/2305528) were made to restore GNU/Linux support from Roblox and for a period of time between May of 2023 and March of 2024, Roblox's Client worked almost perfectly on [Wine](https://en.wikipedia.org/wiki/Wine_(software)).     
 - After first of March 2024, Wine would be [blocked again](https://devforum.roblox.com/t/why-isnt-hyperion-an-anti-cheat/2840095/33) from GNU/Linux, Essentially making it impossible to play the PC Builds of Roblox's Clients on GNU/Linux without a Virtual Machine.
-- Unfortunately, it seems like this was the final nail in the coffin for playing PC Versions Roblox on GNU/Linux.    
+- Unfortunately, it seems like this was the final nail in the coffin for playing PC Versions of Roblox on GNU/Linux.    
 *But there is one glimmer of hope*...   
 
 **The Rarling Project aims to bring back Roblox Support on Linux using the macOS Builds of Roblox and Darling**
